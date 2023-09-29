@@ -1,4 +1,23 @@
- 
 p.intro { 
     font-style: italic; text-align: center;
+}
+
+h1.title {
+    font-size: 60px; text-align: center; font-weight: bold;
+}
+
+h1.entry {
+    font-size: 40px; text-align: center;
+}
+
+p.citation {
+    font-weight: bold; font-style: italic;
+}
+
+h2.topic {
+    font-size: 45px; font-weight: bold;
+}
+
+p.nText {
+    font-size: 12px;
 }
