@@ -1,5 +1,5 @@
 p.intro { 
-    font-style: italic; text-align: center;
+   font-size: 24px; font-style: italic; text-align: center;
 }
 
 h1.title {
@@ -11,7 +11,7 @@ h1.entry {
 }
 
 p.citation {
-    font-weight: bold; font-style: italic;
+   font-size: 24px; font-weight: bold; font-style: italic;
 }
 
 h2.topic {
